@@ -29,5 +29,3 @@ Exhaustive linear search ($O(N)$) across high-dimensional vector spaces degrades
 ### Prerequisites
 
 - Python 3.10+
-- `numpy`
-
