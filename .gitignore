@@ -4,3 +4,9 @@
 *.bin
 
 *.bin
+
+__pycache__/
+*.py[cod]
+
+__pycache__/
+*.py[cod]
